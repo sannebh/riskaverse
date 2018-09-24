@@ -5,7 +5,7 @@ This code combines recent progress in Distributional Reinforcement Learning with
 To download the code:
 
 ```
-git clone https://github.com/sannebh/riskaverse_rl/
+git clone https://github.com/sannebh/riskaverse/
 ```
 
 The cartpole environment is implemented using OpenAI Gym. This is a toolkit for developing and comparing reinforcement learning algorithms. Installation guidelines and other information can be found at https://github.com/openai/gym. 
